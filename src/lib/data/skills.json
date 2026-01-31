@@ -1,0 +1,12 @@
+[
+  { "id": "rails", "name": "Ruby on Rails", "category": "Backend", "level": 90, "months": 48 },
+  { "id": "terraform", "name": "Terraform", "category": "Infra", "level": 75, "months": 12 },
+  { "id": "typescript", "name": "TypeScript", "category": "Frontend", "level": 70, "months": 18 },
+  { "id": "aws", "name": "AWS", "category": "Infra", "level": 75, "months": 36 },
+  { "id": "python", "name": "Python", "category": "Backend", "level": 65, "months": 24 },
+  { "id": "docker", "name": "Docker", "category": "Infra", "level": 70, "months": 36 },
+  { "id": "postgresql", "name": "PostgreSQL", "category": "Backend", "level": 70, "months": 36 },
+  { "id": "nextjs", "name": "Next.js", "category": "Frontend", "level": 65, "months": 12 },
+  { "id": "react", "name": "React", "category": "Frontend", "level": 65, "months": 18 },
+  { "id": "java", "name": "Java", "category": "Backend", "level": 50, "months": 12 }
+]
